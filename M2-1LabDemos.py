@@ -1,8 +1,8 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
-<assignment/lab description
+Instructor
+Module 2 Lab 2
+class demos
 """
 
 """ IPO template
