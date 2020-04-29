@@ -104,4 +104,6 @@ def main():
     print("sum:", sum)
     print()
 
+    print("new code")
+
 main()    
